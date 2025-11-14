@@ -1,0 +1,28 @@
+Zarathkyr,Selfroth,Quarnfroth,Urithvynar,Quarnvynar,Raelkyr,Garsyron,Raelzyph,Raelvynar,Quarnzris,Harnkyr,Garath,Zalfroth,Zarathnarel,Orahfroth,Harnzyph,Harnsyron,Raelnarel,Orahkyr,Orahzion,Orahvynar,Raelfroth,Quarnath,Urithzion,Selnarel,Quarnzion,Zarathzion,Zalath,Garzion,Dalvynar,Raelath,Dalnarel,Zalkyr,Dalath,Orahkyr,Quarnkyr,Garkyr,Zarathfroth,Raelsyron,Urithsyron,Orahnarel,Raelzris,Harnfroth,Dalkyr,Zarathath,Garkyr,Dalzris,Quarnsyron,Harnzris,Quarnkyr,Raelzion,Harnnarel,Orahzris,Urithath,Orahzyph,Dalkyr,Selzyph,Quarnzyph,Dalzyph,Zarathsyron,Harnkyr,Selsyron,Dalsyron,Zarathzris,Selzris,Urithkyr,Zalnarel,Zarathzyph,Harnvynar,Zalsyron,Raelkyr,Selvynar,Garnarel,Zalzris,Zalkyr,Garzris,Selkyr,Selzion,Zalvynar,Zarathkyr,Urithzyph,Garfroth,Urithkyr,Dalfroth,Quarnnarel,Selkyr,Zalzyph,Orahsyron,Urithnarel,Zarathvynar,Zalzion,Orahath,Selath,Harnzion,Urithfroth,Garvynar,Harnath,Urithzris,Dalzion,Garzyph
+
+s > y
+v > y
+G > a
+y > r,p,n
+Z > a
+S > e
+e > l,v
+f > r
+i > s,o,t
+z > y,r,i
+a > r,t,v,h
+D > a
+Q > u
+H > a
+O > r
+R > a
+r > s,o,n,i,e,a,v,f,z,k
+h > f,z,k,v,n,s,a
+l > f,z,k,v,n,s,a
+n > f,z,k,v,a,n,s
+o > n,t
+p > h
+u > v
+t > h
+U > r
+k > y

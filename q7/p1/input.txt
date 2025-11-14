@@ -1,0 +1,15 @@
+Aeldravor,Vanroth,Vantor,Kyroth,Vandravor,Aeltor,Kydravor,Aelroth,Kytor
+
+v > o
+K > y
+r > a,o
+d > r
+o > r,t
+A > e
+y > d,b
+a > v,b
+t > o,h
+n > d,t,r
+e > b
+l > d,t,r
+V > a
